@@ -44,8 +44,10 @@ This project is for educational and research purposes.
    ```bash
    pip install -r requirements.txt
 3. Upload the dataset:
+
    Place rental_training.csv, rental_validation.csv, and rental_testing.csv in the same directory as the notebooks, or upload them to your Drive if using Colab.
-4. Run the notebooks:
+5. Run the notebooks:
+
    Open the following files in Jupyter Notebook or VS Code:
    - 36106-AT1-25589351-experiment-0.py
    - 36106-AT1-25589351-experiment-1.py
