@@ -49,9 +49,9 @@ This project is for educational and research purposes.
 5. Run the notebooks:
 
    Open the following files in Jupyter Notebook or VS Code:
-   - 36106-AT1-25589351-experiment-0.py
-   - 36106-AT1-25589351-experiment-1.py
-   - 36106-AT1-25589351-experiment-2.py
-   - 36106-AT1-25589351-experiment-3.py
+   - 36106_at1_25589351_experiment_0.py
+   - 36106_at1_25589351_experiment_1.py
+   - 36106_at1_25589351_experiment_2.py
+   - 36106_at1_25589351_experiment_3.py
 
 
